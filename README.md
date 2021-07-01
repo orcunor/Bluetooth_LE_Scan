@@ -6,16 +6,17 @@ This app uses UWP namespaces and sdk, so you must install it in visual studio in
 A sample winforms app that notify , indicate, write, read a value from a bluetoothLE device characterictics.
 
 
+# Sample of UUID'S :
 
-**Service UUID = 6144 ** 0x1800,  
+# Service UUID = 6144 ** 0x1800,  
 Characeristic UUID =   10752 - Device Name  ,  10753  - Appearance ,
 **  Properties : Read **
 
-**Service UUID = 6145 **  0x1081, 
+# Service UUID = 6145 **  0x1081, 
 Characeristic UUID =  10757 - Empty  ,
 **  Properties : No Write No read **
 
-**Service UUID = 6154, **    
+# Service UUID = 6154, **    
 Characeristic UUID =   10790 - Firmware Revision String   ,
 10791- Hardware Revision String  ,
 10792 - Software Revision String ,
@@ -25,7 +26,7 @@ Characeristic UUID =   10790 - Firmware Revision String   ,
 10787 - System Id   10794 - empty ,
 Properties : Read
 
-**Service UUID = 21315,
+# Service UUID = 21315,
  Characeristic UUID = 21315  
  ** Properties :  Write, Notify ,WriteWithoutResponse,Indicate **
 
