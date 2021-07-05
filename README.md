@@ -12,10 +12,6 @@ A sample winforms app that notify , indicate, write, read a value from a bluetoo
 Characeristic UUID =   10752 - Device Name  ,  10753  - Appearance ,
 **  Properties : Read **
 
- Service UUID = 6145 **  0x1081, 
-Characeristic UUID =  10757 - Empty  ,
-**  Properties : No Write No read **
-
  Service UUID = 6154, **    
 Characeristic UUID =   10790 - Firmware Revision String   ,
 10791- Hardware Revision String  ,
