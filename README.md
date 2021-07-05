@@ -22,7 +22,7 @@ Characeristic UUID =   10790 - Firmware Revision String   ,
 10787 - System Id   10794 - empty ,
 Properties : Read
 
- Service UUID = 21315,
+ Service UUID = 21315,  This is about RN4870/71 Microchip
  Characeristic UUID = 21315  
  ** Properties :  Write, Notify ,WriteWithoutResponse,Indicate **
 
